@@ -5,3 +5,4 @@ It uses concept of file handling to store data in .DAT file which make the read 
 Only authorised person, who have login ID and password can access the software.
 Different kind of user have different powers, for example admin can make changes in other user profile while other users can't modify anything on thier own.
 There are many other minor features in this project.
+To run the project open HMS.C in C compiler and use run command.
